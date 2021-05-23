@@ -1,0 +1,15 @@
+.Header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-bottom:5px;
+    /* border-bottom: 2px solid gray; */
+    /* background-color: rgb(43, 36, 36); */
+}
+.Logo{
+    width: 70px;
+    object-fit: contain;
+}
+.Icon{
+    padding: 10px;
+}
