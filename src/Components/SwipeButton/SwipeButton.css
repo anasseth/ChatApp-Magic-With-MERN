@@ -1,0 +1,29 @@
+.swipeButtonContainer{
+    position: fixed;
+    bottom: 10vh;
+    display: flex;
+    width: 100%;
+    justify-content: space-evenly;
+}
+.swipeButtonContainer .MuiIconButton-root{
+    background-color: white;
+    box-shadow: 0px 10px 53px 0px rgba(0,0,0,0.3);
+}
+.swipeButton{
+    padding:3px !important;
+}
+.Replay{
+    color:#f5b748;
+}
+.Close{
+    color:#ec5e6f;
+}
+.StarRate{
+    color:#62b4f9;
+}
+.Favorite{
+    color:#76e2b3;
+}
+.FlashOn{
+    color:#915dd1;
+}
